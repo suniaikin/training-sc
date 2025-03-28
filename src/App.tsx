@@ -23,7 +23,7 @@ const Title = styled.h1`
     text-align: center;
     margin-bottom: 32px;
     span {
-        color: #e91e63;
+        color: #ec0206;
     }
 `;
 
