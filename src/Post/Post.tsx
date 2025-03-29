@@ -4,7 +4,6 @@ export const Post = () => {
 		<div>
 			<h2>Post1</h2>
 			<h2>Commit1</h2>
-			<h2>Commit2</h2>
 		</div>
 	)
 }
